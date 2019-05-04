@@ -1,0 +1,2 @@
+# Ignore large data files in data directory
+Data/*.csv
